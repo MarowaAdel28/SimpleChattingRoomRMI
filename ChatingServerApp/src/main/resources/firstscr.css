@@ -1,0 +1,37 @@
+.root{
+    -fx-background-color: linear-gradient(to bottom,#ffffff,#567582);
+        
+}
+ #mainVBox , #hBox{
+    
+}
+
+#hBox{
+    -fx-background-color : transparent 
+}
+
+#senderText{
+    -fx-background-color :  #F7F8F8,#b678bb ;
+    -fx-background-radius : 10px;
+    -fx-text-fill : black;
+    -fx-padding : 5px;
+    
+
+}
+
+
+
+#receiverText{
+    -fx-background-color :#9796f0,#fbc7d4;
+    -fx-background-radius : 10px;
+    -fx-text-fill : black;
+    -fx-padding : 5px;
+
+}
+#sendTextField{
+    -fx-background-radius : 10px;
+}
+#mainVBox{
+     -fx-background-color: linear-gradient(to bottom,#7976a2,#d5d5e25b);  
+
+}

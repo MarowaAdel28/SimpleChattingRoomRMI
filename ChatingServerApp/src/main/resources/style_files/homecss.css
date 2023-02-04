@@ -1,0 +1,22 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jan 19, 2023, 1:52:37 PM
+    Author     : marwa
+*/
+.root{
+    -fx-background-color: linear-gradient(to bottom,#ffffff,#567582);
+        
+}
+
+.myLable {
+     -fx-background-color:#567582
+    
+}
+
+
+
+
+
